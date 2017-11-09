@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>oh-java-thread</module>
+    <module>oh-java-basics</module>
   </modules>
 </project>
