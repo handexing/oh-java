@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 /**
  * 固定大小的线程池
  */
-public class ThredPollDemo {
+public class ThredPoolDemo {
 
 	public static class MyTask implements Runnable {
 
